@@ -53,3 +53,44 @@
     margin-top: 25px;
     text-transform: uppercase;
 }
+/*------------Our Services--------------*/
+#Our-Services{
+    background:lightgreen;
+    padding-bottom:50px;
+    padding-top: 50px;
+}
+.card-title{
+    padding-bottom: 20px;
+}
+/*-------------testimonials-------------*/
+#testimonials{
+    margin: 50px 0;
+
+}
+.testimonials img{
+    height:320px;
+    width:250px;
+
+}
+.para{
+    padding-top: 60px;
+}
+
+#footer{
+    background-image: rgb(66, 114, 108);
+}
+.footer-box{
+    background-image: gray;
+}
+.footerr{
+    background-color: rgb(143, 130, 130);
+}
+.hr{
+    background-color:white;
+}
+.copyright{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+    
+}
