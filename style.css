@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+}
+#nav-bar{
+    position:sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(to right,rgb(22, 183, 236), lightgreen);
+    padding:0 !important;
+}
+.navbar-brand img{
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li{
+    pading:0 10px;
+}
+.navbar-nav li a{
+    color:#fff !important;
+    font weight: 600;
+    float:right;
+}
+.fa-bars{
+    color: #fff;
+    font-size: 30px !important;
+}
+.navbar-toggler{
+    outline: none !important;
+
+}
+.btn-success{
+    border-radius: 40px;
+}
+/*---------banner section-----------------*/
+#banner{
+    background-image: linear-gradient(to right,rgb(22, 183, 236), lightgreen);
+    color:#fff;
+    padding-top: 5%;
+}
+/*------------services section------------------*/
+#services{
+    padding: 80px 0;
+}
+.services-img{
+    width: 100px;
+    margin-top: 20px;
+}
+.services{
+    padding: 5px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
